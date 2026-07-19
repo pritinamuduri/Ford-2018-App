@@ -1,7 +1,7 @@
 import streamlit as st
 
 # Display the image
-st.image("Ford Logo for the Project.jpg")
+st.image("logo.jpg")
 
 # The new catchy line
 st.markdown("""
